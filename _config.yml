@@ -1,0 +1,28 @@
+name: SolutionCenteredWellness
+favicon: null
+layout_spectrum: 0.9382790829986334
+typography_spectrum: 0.411286290967837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6797443164978176
+  lightness: 0.880829859059304
+  saturation: 0.575228510890156
+  rhythmicContrast: 0.34718489763326943
+purpose: []
